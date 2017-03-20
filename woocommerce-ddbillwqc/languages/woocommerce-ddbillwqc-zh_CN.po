@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+# Translation of WooCommerce Dinpay WeChat QR Code Payment in English
+msgid "Proceed to Dinpay WeChat QR Code"
+msgstr "继续Dinpay WeChat QR Code"
+
+msgid "Dinpay WeChat QR Code"
+msgstr "Dinpay WeChat QR Code"
+
+msgid "Dinpay WeChat QR Code works by sending the user to Dinpay Account to enter their payment information."
+msgstr "Dinpay WeChat QR Code通过发送用户Dinpay客户输入自己的付款信息。"
+
+msgid "Dinpay WeChat QR Code Payment Error: Dinpay WeChat QR Code Payment requires PHP 5.3 and above. You are using version %s."
+msgstr "Dinpay WeChat QR Code支付错误：Dinpay WeChat QR Code支付需要PHP 5.3及以上。您正在使用版本％s。"
+
+msgid "Dinpay WeChat QR Code Payment Error: Please enter your Dinpay Account Merchant Code"
+msgstr "Dinpay WeChat QR Code支付错误：请输入您的帐号Dinpay商户编号"
+
+msgid "Dinpay WeChat QR Code Payment Error: Please enter your Dinpay Account Public Key"
+msgstr "Dinpay WeChat QR Code支付错误：请输入您的帐号Dinpay公钥"
+
+msgid "Dinpay WeChat QR Code Payment Error: Please enter your Mechant Private Key"
+msgstr "Dinpay WeChat QR Code支付错误：请输入您的Mechant私钥"
+
+msgid "Dinpay WeChat QR Code Payment Error: CURL is required for Dinpay WeChat QR Code Payment"
+msgstr "Dinpay WeChat QR Code支付错误：CURL需要Dinpay WeChat QR Code支付"
+
+msgid "Dinpay WeChat QR Code Payment Error: OpenSSL is required for Dinpay WeChat QR Code Payment"
+msgstr "Dinpay WeChat QR Code支付错误：OpenSSL是需要Dinpay WeChat QR Code支付"
+
+msgid "Dinpay WeChat QR Code Payment is enabled, but the <a href=\"%s\">force SSL option</a> is disabled; your checkout may not be secure! Please enable SSL and ensure your server has a valid SSL certificate."
+msgstr "Dinpay WeChat QR Code支付已启用，但<a href=\"%s\">力SSL选项</a>被禁用;你结账可能不保！请启用SSL，并确保你的服务器有一个有效的SSL证书。"
+
+msgid "Enable/Disable"
+msgstr "启用/禁用"
+
+msgid "Enable Dinpay WeChat QR Code"
+msgstr "启用Dinpay WeChat QR Code"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "This controls the title which the user sees during checkout."
+msgstr "這控制用户在結帳時看到的標題"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "这控制用户在结帐时看到的描述"
+
+msgid "Pay via Dinpay WeChat QR Code"
+msgstr "通过Dinpay WeChat QR Code支付"
+
+msgid "Sign Type"
+msgstr "卡类型"
+
+msgid "Sign Type: For Dinpay Account."
+msgstr "注册类型：Dinpay帐户。"
+
+msgid "Dinpay Merchant Code"
+msgstr "商船代码"
+
+msgid "Dinpay Merchant Code: From Dinpay Account."
+msgstr "Dinpay商户编号：从Dinpay帐户。"
+
+msgid "Dinpay Public Key"
+msgstr "Dinpay公钥"
+
+msgid "Dinpay Public Key: From Dinpay Account."
+msgstr "Dinpay公钥：从Dinpay帐户。"
+
+msgid "Merchant Private Key"
+msgstr "商家私钥"
+
+msgid "Merchant Private Key: For Dinpay Account and make sure added Merchant Public Key at Dinpay Account."
+msgstr "商家私钥：对于Dinpay账户，并确保新增商务公开键在Dinpay帐户。"
+
+msgid "Debug Log"
+msgstr "调试日志"
+
+msgid "Enable logging"
+msgstr "启用日志记录"
+
+msgid "Log Dinpay WeChat QR Code events, such as IPN requests, inside"
+msgstr "登录Dinpay WeChat QR Code事件，如IPN的请求，里面"
+
+msgid "Bank Code"
+msgstr "银行代码"
+
+msgid "Code"
+msgstr "代码"
+
+msgid "Customer ID"
+msgstr "顾客ID"
+
+msgid "Enable Customer ID"
+msgstr "启用客户ID"
+
+msgid "Customer Name"
+msgstr "名字"
+
+msgid "Error on Customer Identity checking"
+msgstr "对客户身份验证错误"
+
+msgid "Customer ID should be an 18-digit number"
+msgstr "客户 ID 应该是 18 位数-"
+
+msgid "Scan QR Code to Pay"
+msgstr "扫描二维码直接下载Android版工具"
+
+msgid "Payee"
+msgstr "收款人"
+
+msgid "Order ID"
+msgstr "订单ID"
+
+msgid "Amount"
+msgstr "总额"

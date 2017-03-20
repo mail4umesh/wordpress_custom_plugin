@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"X-Generator: Poedit 1.7.7\n"
+
+# Translation of WooCommerce Dinpay WeChat QR Code Payment in English
+msgid "Proceed to Dinpay WeChat QR Code"
+msgstr "Proceed to Dinpay WeChat QR Code"
+
+msgid "Dinpay WeChat QR Code"
+msgstr "Dinpay WeChat QR Code"
+
+msgid "Dinpay WeChat QR Code works by sending the user to Dinpay Account to enter their payment information."
+msgstr "Dinpay WeChat QR Code works by sending the user to Dinpay Account to enter their payment information."
+
+msgid "Dinpay WeChat QR Code Payment Error: Dinpay WeChat QR Code Payment requires PHP 5.3 and above. You are using version %s."
+msgstr "Dinpay WeChat QR Code Payment Error: Dinpay WeChat QR Code Payment requires PHP 5.3 and above. You are using version %s."
+
+msgid "Dinpay WeChat QR Code Payment Error: Please enter your Dinpay Account Merchant Code"
+msgstr "Dinpay WeChat QR Code Payment Error: Please enter your Dinpay Account Merchant Code"
+
+msgid "Dinpay WeChat QR Code Payment Error: Please enter your Dinpay Account Public Key"
+msgstr "Dinpay WeChat QR Code Payment Error: Please enter your Dinpay Account Public Key"
+
+msgid "Dinpay WeChat QR Code Payment Error: Please enter your Mechant Private Key"
+msgstr "Dinpay WeChat QR Code Payment Error: Please enter your Mechant Private Key"
+
+msgid "Dinpay WeChat QR Code Payment Error: CURL is required for Dinpay WeChat QR Code Payment"
+msgstr "Dinpay WeChat QR Code Payment Error: CURL is required for Dinpay WeChat QR Code Payment"
+
+msgid "Dinpay WeChat QR Code Payment Error: OpenSSL is required for Dinpay WeChat QR Code Payment"
+msgstr "Dinpay WeChat QR Code Payment Error: OpenSSL is required for Dinpay WeChat QR Code Payment"
+
+msgid "Dinpay WeChat QR Code Payment is enabled, but the <a href=\"%s\">force SSL option</a> is disabled; your checkout may not be secure! Please enable SSL and ensure your server has a valid SSL certificate."
+msgstr "Dinpay WeChat QR Code Payment is enabled, but the <a href=\"%s\">force SSL option</a> is disabled; your checkout may not be secure! Please enable SSL and ensure your server has a valid SSL certificate."
+
+msgid "Enable/Disable"
+msgstr "Enable/Disable"
+
+msgid "Enable Dinpay WeChat QR Code"
+msgstr "Enable Dinpay WeChat QR Code"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "This controls the title which the user sees during checkout."
+msgstr "This controls the title which the user sees during checkout."
+
+msgid "Description"
+msgstr "Description"
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "This controls the description which the user sees during checkout."
+
+msgid "Pay via Dinpay WeChat QR Code"
+msgstr "Pay via Dinpay WeChat QR Code"
+
+msgid "Sign Type"
+msgstr "Sign Type"
+
+msgid "Sign Type: For Dinpay Account."
+msgstr "Sign Type: For Dinpay Account."
+
+msgid "Dinpay Merchant Code"
+msgstr "Dinpay Merchant Code"
+
+msgid "Dinpay Merchant Code: From Dinpay Account."
+msgstr "Dinpay Merchant Code: From Dinpay Account."
+
+msgid "Dinpay Public Key"
+msgstr "Dinpay Public Key"
+
+msgid "Dinpay Public Key: From Dinpay Account."
+msgstr "Dinpay Public Key: From Dinpay Account."
+
+msgid "Merchant Private Key"
+msgstr "Merchant Private Key"
+
+msgid "Merchant Private Key: For Dinpay Account and make sure added Merchant Public Key at Dinpay Account."
+msgstr "Merchant Private Key: For Dinpay Account and make sure added Merchant Public Key at Dinpay Account."
+
+msgid "Debug Log"
+msgstr "Debug Log"
+
+msgid "Enable logging"
+msgstr "Enable logging"
+
+msgid "Log Dinpay WeChat QR Code events, such as IPN requests, inside"
+msgstr "Log Dinpay WeChat QR Code events, such as IPN requests, inside"
+
+msgid "Bank Code"
+msgstr "Bank Code"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Customer ID"
+msgstr "Customer ID"
+
+msgid "Enable Customer ID"
+msgstr "Enable Customer ID"
+
+msgid "Customer Name"
+msgstr "Customer Name"
+
+msgid "Error on Customer Identity checking"
+msgstr "Error on Customer Identity checking"
+
+msgid "Customer ID should be an 18-digit number"
+msgstr "Customer ID should be an 18-digit number"
+
+msgid "Scan QR Code to Pay"
+msgstr "Scan QR Code to Pay"
+
+msgid "Payee"
+msgstr "Payee"
+
+msgid "Order ID"
+msgstr "Order ID"
+
+msgid "Amount"
+msgstr "Amount"
